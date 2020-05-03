@@ -1,6 +1,6 @@
 # Tile Base
 
-Tile base is a curated list component use by [Laravel Dashboard](https://docs.spatie.be/laravel-dashboard/v1/introduction/) 
+Tile base is a curated list of components use by [Laravel Dashboard](https://docs.spatie.be/laravel-dashboard/v1/introduction/) 
 
 
 # Base
