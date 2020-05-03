@@ -13,7 +13,7 @@ Tile base is a curated list of components use by [Laravel Dashboard](https://doc
 - [Velo](https://github.com/spatie/laravel-dashboard-velo-tile): displays the status of [Velo](https://www.velo-antwerpen.be/en), the Antwerp bike sharing system
 - [Belgian trains](https://github.com/spatie/laravel-dashboard-belgian-trains-tile): displays real-time info on Belgian trains
 
-## [Owen Voke](https://github.com/owenvoke)
+## [Owen Voke](https://twitter.com/owenvoke)
 - [Cloudflare Statistics](https://github.com//owenvoke/laravel-dashboard-cloudflare-stats-tile): display statistics from Cloudflare
 - [Google Fit](https://github.com/owenvoke/laravel-dashboard-google-fit-tile): display statistics from Google Fit
 
