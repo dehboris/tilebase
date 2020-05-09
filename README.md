@@ -19,4 +19,5 @@ Tile base is a curated list of components use by [Laravel Dashboard](https://doc
 
 ## Others
 - [Football standings](https://github.com/kayschima/laravel-dashboard-footballdata-standings-tile): display football standings (powered by [football-data.org](https://football-data.org)) - By [Kay Markschies](https://github.com/kayschima)
-- [Uptime Robot](https://github.com/VineVax/laravel-dashboard-uptime-robot-tile): display sites monitored by Uptime Robot By [Luca](https://github.com/VineVax)
+- [Uptime Robot](https://github.com/VineVax/laravel-dashboard-uptime-robot-tile): display sites monitored By [Luca](https://github.com/VineVax)
+- [Vapor Metrics](https://github.com/fidum/laravel-dashboard-vapor-metrics-tile): Displays metrics for all of your laravel vapor projects - caches, databases and environment metrics and charts included! By [Dan Mason](https://twitter.com/danmasonmp)
